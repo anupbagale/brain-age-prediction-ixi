@@ -137,6 +137,14 @@ To run it locally, install the packages with `pip install -r requirements.txt` a
 ```
 
 
+## References
+
+- Cole, J. H., & Franke, K. (2017). Predicting age using neuroimaging: innovative brain ageing biomarkers. *Trends in Neurosciences*, 40(12), 681-690.
+- Smith, S. M., Vidaurre, D., Alfaro-Almagro, F., Nichols, T. E., & Miller, K. L. (2019). Estimation of brain age delta from brain imaging. *NeuroImage*, 200, 528-539.
+- Peng, H., Gong, W., Beckmann, C. F., Vedaldi, A., & Smith, S. M. (2021). Accurate brain age prediction with lightweight deep neural networks. *Medical Image Analysis*, 68, 101871.
+- Pérez-García, F., Sparks, R., & Ourselin, S. (2021). TorchIO: a Python library for efficient loading, preprocessing, augmentation and patch-based sampling of medical images in deep learning. *Computer Methods and Programs in Biomedicine*, 208, 106236.
+- IXI dataset: https://brain-development.org/ixi-dataset/
+
 ## Contact
 
 Anup Bagale (bagaleanup1@gmail.com)
