@@ -1,0 +1,9 @@
+torch>=2.0
+torchio>=0.19
+nibabel
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+xlrd

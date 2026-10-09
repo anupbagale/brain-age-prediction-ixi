@@ -1,0 +1,11 @@
+# data and model weights (downloaded or produced by the notebook)
+ixi_tiny/
+IXI.xls
+models/
+*.pt
+brain_age_outputs.zip
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
